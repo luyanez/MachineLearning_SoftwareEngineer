@@ -1,18 +1,18 @@
 # MachineLearning_SoftwareEngineer
 This repo will contain all the Jupyter notebooks from my Machine Learning for Software Engineer course
  * Numpy
- ** Arrays
- ** Copying
- ** Casting
- ** NaN
- ** Infinity
- ** Ranged data
- ** Reshaping data
- ** Transposing
- ** Zeros and Ones
- ** Arithmetic
- ** Non-linear functions
- ** Matrix-multiplication 
+  <br>* Arrays
+  <br>* Copying
+  <br>* Casting
+  <br>* NaN
+  <br>* Infinity
+  <br>* Ranged data
+  <br>* Reshaping data
+  <br>* Transposing
+  <br>* Zeros and Ones
+  <br>* Arithmetic
+  <br>* Non-linear functions
+  <br>* Matrix-multiplication 
  * Pandas
  * ML models
  * DL models
