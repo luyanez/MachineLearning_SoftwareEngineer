@@ -17,6 +17,9 @@ This repo will contain all the Jupyter notebooks from my Machine Learning for So
   <br>* Utility functions
   <br>* Distributions
   <br>* Custom sampling
+  <br>* Array accessing
+  <br>* Slicing
+  <br>* Argmin and argmax
  * Pandas
  * ML models
  * DL models
