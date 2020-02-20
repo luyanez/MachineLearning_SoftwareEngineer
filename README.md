@@ -20,6 +20,10 @@ This repo will contain all the Jupyter notebooks from my Machine Learning for So
   <br>* Array accessing
   <br>* Slicing
   <br>* Argmin and argmax
+  <br>* Filtering
+  <br>* Statistics
+  <br>* Aggregation
+  <br>* Saving Data
  * Pandas
  * ML models
  * DL models
